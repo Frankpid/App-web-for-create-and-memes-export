@@ -158,7 +158,7 @@ function App() {
   
   return (
     <div className="App">
-      <Title className="title">Aplicación Web para Exportar Memes</Title>
+      <Title className="title">Web application to create and export memes</Title>
 
       <form onSubmit={exportarMeme}>
         <Container>
